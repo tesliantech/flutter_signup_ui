@@ -1,11 +1,11 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:topsep10/sizeConfig.dart';
-import 'package:topsep10/widgets/signUpPage/loginButtonNavigator.dart';
-import 'package:topsep10/widgets/signUpPage/signUpConfirmPasswordWidget.dart';
-import 'package:topsep10/widgets/signUpPage/signUpEnterEmailWidget.dart';
-import 'package:topsep10/widgets/signUpPage/signUpEnterPasswordWidget.dart';
-import 'package:topsep10/widgets/signUpPage/signupButton.dart';
+import 'package:tosep10/sizeConfig.dart';
+import 'package:tosep10/widgets/signUpPage/loginButtonNavigator.dart';
+import 'package:tosep10/widgets/signUpPage/signUpConfirmPasswordWidget.dart';
+import 'package:tosep10/widgets/signUpPage/signUpEnterEmailWidget.dart';
+import 'package:tosep10/widgets/signUpPage/signUpEnterPasswordWidget.dart';
+import 'package:tosep10/widgets/signUpPage/signupButton.dart';
 
 class SignUpPage extends StatefulWidget {
   @override

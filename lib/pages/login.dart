@@ -2,11 +2,11 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:flutter_signin_button/button_list.dart';
 import 'package:flutter_signin_button/button_view.dart';
-import 'package:topsep10/sizeConfig.dart';
-import 'package:topsep10/widgets/loginPage/enterEmailWidget.dart';
-import 'package:topsep10/widgets/loginPage/enterPasswordWidget.dart';
-import 'package:topsep10/widgets/loginPage/loginButton.dart';
-import 'package:topsep10/widgets/loginPage/signupButtonNavigator.dart';
+import 'package:tosep10/sizeConfig.dart';
+import 'package:tosep10/widgets/loginPage/enterEmailWidget.dart';
+import 'package:tosep10/widgets/loginPage/enterPasswordWidget.dart';
+import 'package:tosep10/widgets/loginPage/loginButton.dart';
+import 'package:tosep10/widgets/loginPage/signupButtonNavigator.dart';
 
 class LoginPage extends StatelessWidget {
   @override

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:topsep10/pages/login.dart';
-import 'package:topsep10/sizeConfig.dart';
+import 'package:tosep10/pages/login.dart';
+import 'package:tosep10/sizeConfig.dart';
 
 void main() {
   runApp(MyApp());

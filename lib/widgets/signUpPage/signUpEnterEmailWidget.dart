@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:topsep10/sizeConfig.dart';
+import 'package:tosep10/sizeConfig.dart';
 
 class SignUpEnterEmailWidget extends StatefulWidget {
   @override
